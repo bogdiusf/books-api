@@ -1,0 +1,20 @@
+{
+  "name": "books-api",
+  "version": "1.0.0",
+  "description": "A basic api that returns random books, categories and users",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "books",
+    "api"
+  ],
+  "author": "Bogdan Filipovici",
+  "license": "MIT",
+  "dependencies": {
+    "chance": "^1.1.9",
+    "json-server": "^0.17.1"
+  }
+}
